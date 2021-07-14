@@ -1,3 +1,3 @@
-## Welcome to `nitish-17`s github page
+## Welcome to `nitish-17` github page
 
 Hi there 👋
